@@ -1,0 +1,10 @@
+scanpy
+tangram
+scvi-tools
+pandas
+seaborn
+matplotlib
+numpy
+torch
+pytest
+
