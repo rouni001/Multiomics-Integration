@@ -1,10 +1,16 @@
-# Data Integration Package
+# Multiomics-Integration
 
-This Python package facilitates the integration and processing of scRNA-seq, ATAC-seq and spatial (10x/Visium) datasets using AnnData and Tangram. It allows for efficient mapping of single-cell data to spatial transcriptomics data, enabling downstream analysis and visualization of the spatial distribution of cell types and gene expression.
+This Python repo presents key functions facilitating the data integration and processing of scRNA-seq, ATAC-seq and spatial (10x/Visium) datasets using AnnData and Tangram. It allows for efficient mapping of single-cell data to spatial transcriptomics data, enabling downstream analysis and visualization of the spatial distribution of cell types and gene expression.
 
+## Introduction
+
+The Multiomics-Integration repository is a Python package designed to integrate multiple types of omics data, such as single-cell RNA sequencing (scRNA-seq), spatial transcriptomics (e.g., 10x Visium), and single-cell ATAC-seq (scATAC-seq). The integration is performed using the AnnData object format and the Tangram framework, enabling efficient mapping of single-cell data to spatial transcriptomics data. This integration facilitates the analysis and visualization of spatial distributions of gene expression and cell types, contributing significantly to multi-omics research.
+
+Importance of Multi-Omics Integration
+In bioinformatics, combining multiple types of omics data (e.g., RNA expression, chromatin accessibility, and spatial distribution) is essential for understanding complex biological systems. This integration allows for a more comprehensive view of cellular behaviors, regulatory mechanisms, and disease processes. Using spatial transcriptomics with single-cell RNA and ATAC-seq data enables researchers to investigate the spatial context of gene expression, how genes are regulated, and how they interact within specific tissue environments. This approach is crucial for advancing personalized medicine, improving drug discovery, and exploring tissue heterogeneity.
 
 ## Author & Date
-Dr. Rachid Ounit.
+Rachid Ounit, Ph.D
 
 September 2024.
 
