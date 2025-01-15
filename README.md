@@ -17,7 +17,7 @@ September 2024.
 ## Version
 v0.1.0
 
-## **Features**
+## Features
 
 - **Preprocessing Pipelines**: Handles both single-cell and VZ (spatial transcriptomics) data. It preprocesses data by adding ATAC-seq information, filtering cells, detecting doublets, and performing quality control.
   
@@ -31,7 +31,7 @@ v0.1.0
 
 ---
 
-## **Table of Contents**
+## Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
@@ -49,13 +49,13 @@ v0.1.0
 
 To install the package and set up the necessary environment, follow the steps below:
 
-1. **Clone the repository**:
+### 1. **Clone the repository**:
 
 ```bash
 git clone https://github.com/your-repo/data-integration-package.git
 cd data_integration_package
 
-2. **Install the required dependencies**:
+### 2. **Install the required dependencies**:
 
 The package relies on several dependencies, including scanpy, tangram, scvi-tools, and others. To install all dependencies, run:
 
