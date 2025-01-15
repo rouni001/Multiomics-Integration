@@ -54,6 +54,7 @@ To install the package and set up the necessary environment, follow the steps be
 ```bash
 git clone https://github.com/your-repo/data-integration-package.git
 cd data_integration_package
+```
 
 ### 2. **Install the required dependencies**:
 
