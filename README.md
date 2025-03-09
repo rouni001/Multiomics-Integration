@@ -104,3 +104,5 @@ We welcome contributions to this project! To contribute:
 - Make sure to run the test suite (pytest) before submitting your changes to ensure everything works as expected.
 
 
+## Contact
+Connect with me at: rachid.ouint at gmail.com
